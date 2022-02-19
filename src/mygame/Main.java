@@ -51,7 +51,8 @@ public class Main extends SimpleApplication{
         
         /* Update the model. Now it's vertical. */
       
-
+        //sasat;
+        
         rootNode.addLight(dl);
         rootNode.attachChild(teaGeom);
 
